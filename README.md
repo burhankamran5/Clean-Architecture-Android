@@ -34,7 +34,7 @@ Data Layer: The Data layer is responsible for providing data to the Domain layer
 Setup
 To set up the project on your local machine, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/news-api-android-kotlin.git
+Clone the repository: git clone https://github.com/burhankamran0076/Clean-Architecture-Android/tree/master
 Open the project in Android Studio.
 Build the project to fetch dependencies.
 Connect your Android device or emulator.
